@@ -1,0 +1,5 @@
+token: "122345:testtoken"
+listen: ":8080"
+channel:
+  Me:
+    id: 1234567
